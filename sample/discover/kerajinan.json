@@ -4,7 +4,7 @@
     {
       "slug": "9b4c6300-b8d5-4c8c-87a9-62b3782e5a88",
       "name": "Batik Madura",
-      "address": "Pamekasan",
+      "city": "Pamekasan",
       "thumbnail_url": "https://lh3.googleusercontent.com/p/AF1QipM6kZ959iwpXewyi364uNWO32lctcSkk68oBYG9=s0",
       "short_video_url": "/sample.mp4",
       "price": 50000,
@@ -13,7 +13,7 @@
     {
       "slug": "4e0f6d64-ec72-4d9d-b285-aafe95b1cbdb",
       "name": "Madura Pusaka",
-      "address": "Sumenep",
+      "city": "Sumenep",
       "thumbnail_url": "https://lh3.googleusercontent.com/p/AF1QipPOEKpEeHmKu4Or3fAkxiEa1VmEaEQvSHy1VPia=s0",
       "short_video_url": "/sample.mp4",
       "price": 50000,
@@ -22,7 +22,7 @@
     {
       "slug": "6d1b89ed-9da4-4c2f-84bf-14ed6d3c69a0",
       "name": "MAIN KAYU GALERI",
-      "address": "Pamekasan",
+      "city": "Pamekasan",
       "thumbnail_url": "https://lh3.googleusercontent.com/p/AF1QipN2cIjw2F9U9HkYR7mPygzMDdLDmu6iXz8Ow7Q6=s0",
       "short_video_url": "/sample.mp4",
       "price": 50000,
@@ -31,7 +31,7 @@
     {
       "slug": "3e3c00f0-b0a0-4f2b-b75c-26c0ff529c24",
       "name": "Kerajinan Kayu Ramox",
-      "address": "Bangkalan",
+      "city": "Bangkalan",
       "thumbnail_url": "https://lh3.googleusercontent.com/p/AF1QipOX2Qz07OUOlDa5j36PHbDZS6NHAT_k9nR03emr=s0",
       "short_video_url": "/sample.mp4",
       "price": 50000,
@@ -40,7 +40,7 @@
     {
       "slug": "9b47f47f-bd79-4f8e-93f6-aa9518c90a6b",
       "name": "BATIK USRA",
-      "address": "Sampang",
+      "city": "Sampang",
       "thumbnail_url": "https://lh3.googleusercontent.com/p/AF1QipMEgJkt2qHTtzz0wZQ2FKmno7d1rKgxgDrC_IWl=s0",
       "short_video_url": "/sample.mp4",
       "price": 50000,
